@@ -1,5 +1,5 @@
 /*
- * $FU-Copyright$
+ * $FU-Copyright $
  */
 
 #include "CubicEvaporationPolicy.h"
